@@ -1,0 +1,8 @@
+C:\Users\UPN\Documents\Nrc 10710\Semana3_Fa\Semana3_Fa\bin\Debug\Semana3_Fa.exe.config
+C:\Users\UPN\Documents\Nrc 10710\Semana3_Fa\Semana3_Fa\bin\Debug\Semana3_Fa.exe
+C:\Users\UPN\Documents\Nrc 10710\Semana3_Fa\Semana3_Fa\bin\Debug\Semana3_Fa.pdb
+C:\Users\UPN\Documents\Nrc 10710\Semana3_Fa\Semana3_Fa\obj\Debug\Semana3_Fa.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\Nrc 10710\Semana3_Fa\Semana3_Fa\obj\Debug\Semana3_Fa.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\Nrc 10710\Semana3_Fa\Semana3_Fa\obj\Debug\Semana3_Fa.exe
+C:\Users\UPN\Documents\Nrc 10710\Semana3_Fa\Semana3_Fa\obj\Debug\Semana3_Fa.pdb
+C:\Users\UPN\Documents\Nrc 10710\Semana3_Fa\Semana3_Fa\obj\Debug\Semana3_Fa.exe.config
