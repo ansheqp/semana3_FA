@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Documents\\Nrc 10710\\sem3_Fa\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\sem3_Fa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F90C594-0D57-45A1-85BE-C04B2533950A}|Semana3_Fa_py\\Semana3_Fa_py.pyproj|C:\\Users\\UPN\\Documents\\Nrc 10710\\sem3_Fa\\Semana3_Fa_py\\Semana3_Fa.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9F90C594-0D57-45A1-85BE-C04B2533950A}|Semana3_Fa_py\\Semana3_Fa_py.pyproj|solutionrelative:Semana3_Fa_py\\Semana3_Fa.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B87E29ED-4AB3-47C9-9A5B-6E813CE89B51}|Semana3_Fa\\Semana3_Fa.csproj|C:\\Users\\UPN\\Desktop\\sem3_Fa\\semana3_fa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87E29ED-4AB3-47C9-9A5B-6E813CE89B51}|Semana3_Fa\\Semana3_Fa.csproj|solutionrelative:semana3_fa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B87E29ED-4AB3-47C9-9A5B-6E813CE89B51}|Semana3_Fa\\Semana3_Fa.csproj|C:\\Users\\UPN\\Documents\\Nrc 10710\\sem3_Fa\\semana3_fa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B87E29ED-4AB3-47C9-9A5B-6E813CE89B51}|Semana3_Fa\\Semana3_Fa.csproj|solutionrelative:semana3_fa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F90C594-0D57-45A1-85BE-C04B2533950A}|Semana3_Fa_py\\Semana3_Fa_py.pyproj|C:\\Users\\UPN\\Desktop\\sem3_Fa\\Semana3_Fa_py\\Semana3_Fa.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F90C594-0D57-45A1-85BE-C04B2533950A}|Semana3_Fa_py\\Semana3_Fa_py.pyproj|solutionrelative:Semana3_Fa_py\\Semana3_Fa.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Semana3_Fa.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\Nrc 10710\\sem3_Fa\\Semana3_Fa_py\\Semana3_Fa.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\sem3_Fa\\Semana3_Fa_py\\Semana3_Fa.py",
               "RelativeDocumentMoniker": "Semana3_Fa_py\\Semana3_Fa.py",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\Nrc 10710\\sem3_Fa\\Semana3_Fa_py\\Semana3_Fa.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\sem3_Fa\\Semana3_Fa_py\\Semana3_Fa.py",
               "RelativeToolTip": "Semana3_Fa_py\\Semana3_Fa.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-05T14:35:52.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Documents\\Nrc 10710\\sem3_Fa\\Semana3_Fa\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\sem3_Fa\\Semana3_Fa\\Program.cs",
               "RelativeDocumentMoniker": "Semana3_Fa\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Documents\\Nrc 10710\\sem3_Fa\\Semana3_Fa\\Program.cs",
-              "RelativeToolTip": "Semana3_Fa\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\sem3_Fa\\Semana3_Fa\\Program.cs*",
+              "RelativeToolTip": "Semana3_Fa\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T14:16:13.929Z"
+              "WhenOpened": "2025-09-05T14:16:13.929Z",
+              "EditorCaption": ""
             }
           ]
         }
